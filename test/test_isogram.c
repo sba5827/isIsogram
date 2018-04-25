@@ -13,6 +13,7 @@ int main(void)
 
    RUN_TEST(test_empty_string);
 
+   printf("Test\n");
 
    UnityEnd();
    return 0;

@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1524649665 source:c:\users\steven b\git\isisogram\src\isogram.c
+	"isogram.h"
+
+1524649665 c:\users\steven b\git\isisogram\src\isogram.h
+	<stdbool.h>
+
+1524649665 source:c:\users\steven b\git\isisogram\test\vendor\unity.c
+	"unity.h"
+	<stddef.h>
+	<string.h>
+
+1524649665 c:\users\steven b\git\isisogram\test\vendor\unity.h
+	"unity_internals.h"
+
+1524649665 c:\users\steven b\git\isisogram\test\vendor\unity_internals.h
+	"unity_config.h"
+	<setjmp.h>
+	<stdint.h>
+	<limits.h>
+	<stdio.h>
+
+1524650557 source:c:\users\steven b\git\isisogram\test\test_isogram.c
+	"vendor/unity.h"
+	"../src/isogram.h"
+	<stdlib.h>
+
